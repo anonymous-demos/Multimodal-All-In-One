@@ -1,4 +1,4 @@
-## Multi-Modal (Multi-Channel Audio-Visual) Speech Recognition, Separation and Diarization, Everything Streaming All at Once 
+# Multi-Modal (Multi-Channel Audio-Visual) Speech Recognition, Separation and Diarization, Everything Streaming All at Once 
 
 ## The directed graphical model for multi-modal cocktail party problem.
 
