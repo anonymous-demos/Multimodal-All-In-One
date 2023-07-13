@@ -1,6 +1,6 @@
 ## Multi-Modal (Multi-Channel Audio-Visual) Speech Recognition, Separation and Diarization, Everything Streaming All at Once 
 
-## Scenario
+## The directed graphical model for multi-modal cocktail party problem.
 
 ![graphical_model](https://github.com/anonymous-demos/Multimodal-All-In-One/assets/139128828/40af89f4-2231-49d4-86ab-039a30da4dc9)
 
@@ -8,11 +8,11 @@
 
 ```markdown
 
-# Streaming Input: 
+## Streaming Input:  
 - multi-channel audio from microphone array
 - video from RGB/depth cameras
 
-# Streaming Output:
+## Streaming Output:
 - video from RGB/depth cameras
 
 ```
