@@ -1,4 +1,4 @@
-![image](https://github.com/anonymous-demos/Multimodal-All-In-One/assets/139128828/81e8ea23-2b0f-4f4c-ad4a-23d108eb71cf)## Multi-Modal (Multi-Channel Audio-Visual) Speech Recognition, Separation and Diarization, Everything Streaming All at Once 
+## Multi-Modal (Multi-Channel Audio-Visual) Speech Recognition, Separation and Diarization, Everything Streaming All at Once 
 
 ## Scenario
 
