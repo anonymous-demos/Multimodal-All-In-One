@@ -13,7 +13,7 @@
 - video from RGB/depth cameras
 
 ## Streaming Output:
-- video from RGB/depth cameras
+- [Who] says [What] from [t1] to [t2] at [Location Where]
 
 ```
 
